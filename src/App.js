@@ -100,7 +100,10 @@ function App() {
       <div className="author">
         {" "}
         Designed and Coded By <br />
-        <a href="#" target="_blank">
+        <a
+          href="https://github.com/nagarajtolearn/Javascript-Calculator"
+          target="_blank"
+        >
           Nagaraj Biradar
         </a>
       </div>
